@@ -1,0 +1,43 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  
+      background: whitesmoke;
+  
+      font-size:16pt;
+  }
+  
+  .header {	
+      padding-top:10px;
+      padding-bottom:53px;
+      background-color:rgb(78, 198, 228);
+      color: rgb(112, 11, 11);
+  }
+  
+  ul {
+      list-style-type: none;
+      margin:0;
+      padding:0;
+  }
+  
+  li {
+      display: inline;
+  }
+  
+  li a {
+      margin: 0px;
+      padding:14px 16px;
+      float: left;
+      background: #555;
+      color: white;
+      text-decoration: none
+  }
+  
+  li a.active {
+      background: azure !important;
+      color: black;
+  }
+  
+  li a:hover {
+      background: rgb(146, 110, 110);
+  }
