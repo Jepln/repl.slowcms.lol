@@ -5,7 +5,7 @@
 
 [![Build Status](https://scrutinizer-ci.com/g/Jepln/repl.slowcms.lol/badges/build.png?b=main)](https://scrutinizer-ci.com/g/Jepln/repl.slowcms.lol/build-status/main)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Jepln/repl.slowcms.lol/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/Jepln/repl.slowcms.lol/?branch=main)
 
-repl.slowcms.lol is my playground teting website, you will see  many updates on it, and I will add many more projects on it. Once I add CSS it will look much cleaner.
+repl.slowcms.lol is my playground testing website, you will see  many updates on it, and I will add many more projects on it. Once I add CSS it will look much cleaner.
 
 ## Detailed description
 ##### *****Found on the main page*****
@@ -15,7 +15,7 @@ This website was made for the sole purpose of testing out projects before adding
 
 ## How does this benefit you?
 - I don't crash my main website
-- I can log-in to my Replit acount anywhere
+- I can log-in to my Replit account anywhere
 - Replit is somewhat easier to use than cPanel
 
 ## Why did you make this?
